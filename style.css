@@ -1,0 +1,28 @@
+
+.p1{text-align: center;
+    color:rgb(80, 6, 22);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+body {
+	margin: 0;
+	padding: 20px;
+	font-family: "Fira Code", "Trebuchet MS", sans-serif;
+	font-size: 12px;
+	line-height: 1.4em; 
+	background-image: url(light.jpg);
+	background-position: center;
+    background-repeat: no-repeat;
+}
+h1 {text-align: center;}
+.div1{  position: absolute;
+    top: 360px;
+    left: 10px;
+    width: 380px;
+    height: 200px;
+border: 2px solid slateblue }
+.div2{  position: absolute;
+    top: 360px;
+    right: 10px;
+    width: 900px;
+    height: 200px;
+border: 2px solid slateblue }
+.div1ul{ text-align: left; }
